@@ -4,7 +4,7 @@ Only for Peridot (McKoxu) and Czerwonek
 # TODO
   - [ ] Furniture
   - [ ] Machines
-  - [ ] Shards of stones (ores variants too) 
+  - [ ] Shards of stones (normal stones and ores) 
   - [ ] Dust of ores
   - [ ] Poor Ores
   - [ ] Dense Ores
