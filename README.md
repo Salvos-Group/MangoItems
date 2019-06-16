@@ -4,7 +4,8 @@ Only for Peridot (McKoxu) and Czerwonek
 # TODO
   - [ ] Furniture
   - [ ] Machines
-  - [ ] Shards of stones (normal stones and ores) 
+  - [ ] Rocks similar to Stairway to Aether
+  - [ ] Shards of rocks and ores
   - [ ] Dust of ores
   - [ ] Poor Ores
   - [ ] Dense Ores
