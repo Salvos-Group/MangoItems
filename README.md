@@ -20,10 +20,10 @@ Only for Peridot (McKoxu) and Czerwonek
     * Platinium
     * Iridium
     * Nickiel
-    * Mangonium
     * Uranium (Radioactive)
     * Yellorium (Radioactive)
     * Blutonium (Radioactive)
+    * Mangonium (Nether)
     * Cobalt (Nether)
     * Titanium (End)
   - [ ] Ores (dusts)
