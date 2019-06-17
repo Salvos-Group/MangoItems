@@ -17,22 +17,73 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Dense Ores
   - [ ] Ores (ingots and nuggets) 
     - [ ] Copper
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Tin
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Silver
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Aluminum
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Lead
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Zinc
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Tungsten
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Chromium
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Platinium
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Iridium
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Nickiel
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Uranium (Radioactive)
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Yellorium (Radioactive)
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Blutonium (Radioactive)
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Mangonium (Nether)
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Cobalt (Nether)
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
     - [ ] Titanium (End)
+      - [ ] Ore
+      - [ ] Ingot
+      - [ ] Nugget
   - [ ] Ores (dusts)
     - [ ] Salt
     - [ ] Saltpeter
