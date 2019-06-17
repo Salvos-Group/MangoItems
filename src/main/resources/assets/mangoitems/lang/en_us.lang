@@ -1,0 +1,8 @@
+item.mangowrench.name=Mango Wrench
+item.mangofruit.name=Mango
+
+itemGroup.creative_tools=MangoItems: Tools
+itemGroup.creative_armor=MangoItems: Armor
+itemGroup.creative_blocks=MangoItems: Blocks
+itemGroup.creative_items=MangoItems: Items
+itemGroup.creative_food=MangoItems: Food
