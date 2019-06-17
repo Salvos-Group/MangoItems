@@ -72,7 +72,7 @@ Only for Peridot (McKoxu) and Czerwonek
       - [ ] Ore
       - [ ] Ingot
       - [ ] Nugget
-    - [ ] Mangonium (Nether)
+    - [ ] Mangonium
       - [ ] Ore
       - [ ] Ingot
       - [ ] Nugget
