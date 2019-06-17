@@ -5,6 +5,12 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Furniture
   - [ ] Machines
   - [ ] Rocks similar to Stairway to Aether
+    * Mule
+    * Marble
+    * Basalt
+    * Limestone
+    * Chalk
+    * Chlorite
   - [ ] Shards of rocks and ores
   - [ ] Dust of ores
   - [ ] Poor Ores
