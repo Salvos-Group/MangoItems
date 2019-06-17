@@ -41,27 +41,27 @@ Only for Peridot (McKoxu) and Czerwonek
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Tungsten
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Chromium
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Platinium
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Iridium
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Nickiel
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Uranium (Radioactive)
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Yellorium (Radioactive)
@@ -73,7 +73,7 @@ Only for Peridot (McKoxu) and Czerwonek
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Mangonium
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Cobalt (Nether)
