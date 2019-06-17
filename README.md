@@ -48,15 +48,19 @@ Only for Peridot (McKoxu) and Czerwonek
       - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
+    - [ ] Nickiel
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget
+    - [x] Lithium
+      - [x] Ore
+      - [ ] Ingot
+      - [ ] Nugget  
     - [ ] Platinium
       - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Iridium
-      - [x] Ore
-      - [ ] Ingot
-      - [ ] Nugget
-    - [ ] Nickiel
       - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
