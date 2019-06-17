@@ -24,7 +24,7 @@ Only for Peridot (McKoxu) and Czerwonek
     - [ ] Zinc
     - [ ] Tungsten
     - [ ] Chromium
-    - [ ]Platinium
+    - [ ] Platinium
     - [ ] Iridium
     - [ ] Nickiel
     - [ ] Uranium (Radioactive)
