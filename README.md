@@ -65,11 +65,11 @@ Only for Peridot (McKoxu) and Czerwonek
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Yellorium (Radioactive)
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Blutonium (Radioactive)
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Mangonium
@@ -77,11 +77,11 @@ Only for Peridot (McKoxu) and Czerwonek
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Cobalt (Nether)
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
     - [ ] Titanium (End)
-      - [ ] Ore
+      - [x] Ore
       - [ ] Ingot
       - [ ] Nugget
   - [ ] Ores (dusts)
