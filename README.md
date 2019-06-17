@@ -5,49 +5,49 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Furniture
   - [ ] Machines
   - [ ] Rocks similar to Stairway to Aether
-    * Mule
-    * Marble
-    * Basalt
-    * Limestone
-    * Chalk
-    * Chlorite
+    - [ ] Mule
+    - [ ] Marble
+    - [ ] Basalt
+    - [ ] Limestone
+    - [ ] Chalk
+    - [ ] Chlorite
   - [ ] Shards of rocks and ores
   - [ ] Dust of ores
   - [ ] Poor Ores
   - [ ] Dense Ores
   - [ ] Ores (ingots and nuggets) 
-    * Copper
-    * Tin
-    * Silver
-    * Aluminum
-    * Lead
-    * Zinc
-    * Tungsten
-    * Chromium
-    * Platinium
-    * Iridium
-    * Nickiel
-    * Uranium (Radioactive)
-    * Yellorium (Radioactive)
-    * Blutonium (Radioactive)
-    * Mangonium (Nether)
-    * Cobalt (Nether)
-    * Titanium (End)
+    - [ ] Copper
+    - [ ] Tin
+    - [ ] Silver
+    - [ ] Aluminum
+    - [ ] Lead
+    - [ ] Zinc
+    - [ ] Tungsten
+    - [ ] Chromium
+    - [ ]Platinium
+    - [ ] Iridium
+    - [ ] Nickiel
+    - [ ] Uranium (Radioactive)
+    - [ ] Yellorium (Radioactive)
+    - [ ] Blutonium (Radioactive)
+    - [ ] Mangonium (Nether)
+    - [ ] Cobalt (Nether)
+    - [ ] Titanium (End)
   - [ ] Ores (dusts)
-    * Salt
-    * Saltpeter
-    * Sulfur
-    * Apatite
+    - [ ] Salt
+    - [ ] Saltpeter
+    - [ ] Sulfur
+    - [ ] Apatite
   - [ ] Ores (crystals)
-    * Ruby
-    * Topaz
-    * Peridot
-    * Sapphire 
-    * Malachite
-    * Tanzanite
-    * Amethys
-    * Kyanite
-    * Aquamarine (sea ore, sand version)
-    * Amber (sea ore, sand version)
+    - [ ] Ruby
+    - [ ] Topaz
+    - [ ] Peridot
+    - [ ] Sapphire 
+    - [ ] Malachite
+    - [ ] Tanzanite
+    - [ ] Amethyst
+    - [ ] Kyanite
+    - [ ] Aquamarine (sea ore, sand version)
+    - [ ] Amber (sea ore, sand version)
     
     
