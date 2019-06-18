@@ -8,7 +8,7 @@ Only for Peridot (McKoxu) and Czerwonek
     - [ ] Mule
     - [x] Marble
     - [x] Basalt
-    - [ ] Limestone
+    - [x] Limestone
     - [ ] Chalk
     - [ ] Chlorite
   - [ ] Small stones of rocks and ores
