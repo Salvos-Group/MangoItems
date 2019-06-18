@@ -6,8 +6,8 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Machines
   - [ ] Rocks similar to Stairway to Aether
     - [ ] Mule
-    - [ ] Marble
-    - [ ] Basalt
+    - [x] Marble
+    - [x] Basalt
     - [ ] Limestone
     - [ ] Chalk
     - [ ] Chlorite
@@ -18,75 +18,75 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Ores (ingots and nuggets) 
     - [ ] Copper
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Tin
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Silver
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Aluminum
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Lead
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Zinc
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Tungsten
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Chromium
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Nickiel
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [x] Lithium
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget  
     - [ ] Platinium
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Iridium
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Uranium (Radioactive)
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Yellorium (Radioactive)
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Blutonium (Radioactive)
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Mangonium
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Cobalt (Nether)
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
     - [ ] Titanium (End)
       - [x] Ore
-      - [ ] Ingot
+      - [x] Ingot
       - [ ] Nugget
   - [ ] Ores (dusts)
     - [ ] Salt
