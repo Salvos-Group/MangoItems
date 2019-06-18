@@ -15,79 +15,79 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Dust of ores
   - [ ] Poor Ores
   - [ ] Dense Ores
-  - [ ] Ores (ingots and nuggets) 
-    - [ ] Copper
+  - [x] Ores (ingots and nuggets) 
+    - [x] Copper
+      - [x] Ore
+      - [x] Ingot
+      - [x] Nugget
+    - [x] Tin
+      - [x] Ore
+      - [x] Ingot
+      - [x] Nugget
+    - [x] Silver
       - [x] Ore
       - [x] Ingot
       - [ ] Nugget
-    - [ ] Tin
+    - [x] Aluminum
       - [x] Ore
       - [x] Ingot
       - [ ] Nugget
-    - [ ] Silver
+    - [x] Lead
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Aluminum
+      - [x] Nugget
+    - [x] Zinc
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Lead
+      - [x] Nugget
+    - [x] Tungsten
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Zinc
+      - [x] Nugget
+    - [x] Chromium
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Tungsten
+      - [x] Nugget
+    - [x] Nickiel
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Chromium
-      - [x] Ore
-      - [x] Ingot
-      - [ ] Nugget
-    - [ ] Nickiel
-      - [x] Ore
-      - [x] Ingot
-      - [ ] Nugget
+      - [x] Nugget
     - [x] Lithium
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget  
-    - [ ] Platinium
+      - [x] Nugget  
+    - [x] Platinium
+      - [x] Ore
+      - [x] Ingot
+      - [x] Nugget
+    - [x] Iridium
+      - [x] Ore
+      - [x] Ingot
+      - [x] Nugget
+    - [x] Uranium (Radioactive)
       - [x] Ore
       - [x] Ingot
       - [ ] Nugget
-    - [ ] Iridium
+    - [x] Yellorium (Radioactive)
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Uranium (Radioactive)
+      - [x] Nugget
+    - [x] Blutonium (Radioactive)
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Yellorium (Radioactive)
+      - [x] Nugget
+    - [x] Mangonium
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Blutonium (Radioactive)
+      - [x] Nugget
+    - [x] Cobalt (Nether)
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Mangonium
+      - [x] Nugget
+    - [x] Titanium (End)
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
-    - [ ] Cobalt (Nether)
-      - [x] Ore
-      - [x] Ingot
-      - [ ] Nugget
-    - [ ] Titanium (End)
-      - [x] Ore
-      - [x] Ingot
-      - [ ] Nugget
+      - [x] Nugget
   - [ ] Ores (dusts)
     - [ ] Salt
     - [ ] Saltpeter
