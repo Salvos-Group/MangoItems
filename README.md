@@ -27,11 +27,11 @@ Only for Peridot (McKoxu) and Czerwonek
     - [x] Silver
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
+      - [x] Nugget
     - [x] Aluminum
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
+      - [x] Nugget
     - [x] Lead
       - [x] Ore
       - [x] Ingot
