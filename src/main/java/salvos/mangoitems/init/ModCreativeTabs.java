@@ -23,14 +23,14 @@ public class ModCreativeTabs {
     public static final CreativeTabs CREATIVE_BLOCKS = new CreativeTabs("creative_blocks") {
         @Override
         public ItemStack getTabIconItem() {
-            return new ItemStack(Item.getItemById(1));
+            return new ItemStack(Item.getItemFromBlock(ModBlocks.MARBLE_STONE));
         }
     };
 
     public static final CreativeTabs CREATIVE_ITEMS = new CreativeTabs("creative_items") {
         @Override
         public ItemStack getTabIconItem() {
-            return new ItemStack(Item.getItemById(339));
+            return new ItemStack(ModItems.MANGONIUM_INGOT);
         }
     };
 

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "mangoitems:blutonium_ingot"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "mangoitems:blutonium_nugget",
+    "count": 9
+  }
+}

@@ -5,11 +5,12 @@ import salvos.mangoitems.MangoItems;
 import salvos.mangoitems.init.ModCreativeTabs;
 import salvos.mangoitems.init.ModItems;
 import salvos.mangoitems.util.IHasModel;
+import salvos.mangoitems.util.Reference;
 
 public class ItemMangoWrench extends Item implements IHasModel {
 
     public ItemMangoWrench(String name){
-        setUnlocalizedName(name);
+        setUnlocalizedName(Reference.MOD_ID+"."+name);
         setRegistryName(name);
         setCreativeTab(ModCreativeTabs.CREATIVE_TOOLS);
         setMaxStackSize(1);

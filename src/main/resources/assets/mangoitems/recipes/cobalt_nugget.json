@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "mangoitems:cobalt_ingot"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "mangoitems:cobalt_nugget",
+    "count": 9
+  }
+}

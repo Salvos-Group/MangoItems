@@ -1,8 +1,14 @@
-item.mangowrench.name=Mango Wrench
-item.mangofruit.name=Mango
+#Items
+item.mangoitems.mangowrench.name=Mango Wrench
+item.mangoitems.mangofruit.name=Mango
 
-itemGroup.creative_tools=MangoItems: Tools
-itemGroup.creative_armor=MangoItems: Armor
-itemGroup.creative_blocks=MangoItems: Blocks
-itemGroup.creative_items=MangoItems: Items
-itemGroup.creative_food=MangoItems: Food
+#Blocks
+tile.mangoitems.basalt_stone.name=Basalt
+tile.mangoitems.marble_stone.name=Marble
+
+#Creative Tab
+itemGroup.mangoitems.creative_tools=MangoItems: Tools
+itemGroup.mangoitems.creative_armor=MangoItems: Armor
+itemGroup.mangoitems.creative_blocks=MangoItems: Blocks
+itemGroup.mangoitems.creative_items=MangoItems: Items
+itemGroup.mangoitems.creative_food=MangoItems: Food

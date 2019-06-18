@@ -8,12 +8,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import salvos.mangoitems.proxy.CommonProxy;
 import salvos.mangoitems.util.Reference;
 
-@Mod(
-        modid = Reference.MOD_ID,
-        name = Reference.MOD_NAME,
-        version = Reference.VERSION,
-        acceptedMinecraftVersions = Reference.MC_VERSION
-)
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, acceptedMinecraftVersions = Reference.MC_VERSION)
 public class MangoItems {
 
     @Mod.Instance(Reference.MOD_ID)

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+
+  "key":
+  {
+    "N":
+    {
+      "item": "mangoitems:silver_nugget"
+    }
+  },
+
+  "result":
+  {
+    "item": "mangoitems:silver_ingot",
+    "count": 1
+  }
+}

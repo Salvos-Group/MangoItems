@@ -5,6 +5,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import salvos.mangoitems.init.ModRecipes;
 
 public class CommonProxy {
 
@@ -17,7 +18,7 @@ public class CommonProxy {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-
+        ModRecipes.init();
     }
 
     @Mod.EventHandler
