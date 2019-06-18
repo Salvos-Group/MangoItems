@@ -11,7 +11,7 @@ Only for Peridot (McKoxu) and Czerwonek
     - [ ] Limestone
     - [ ] Chalk
     - [ ] Chlorite
-  - [ ] Shards of rocks and ores
+  - [ ] Small stones of rocks and ores
   - [ ] Dust of ores
   - [ ] Poor Ores
   - [ ] Dense Ores
