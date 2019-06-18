@@ -5,7 +5,7 @@ Only for Peridot (McKoxu) and Czerwonek
   - [ ] Furniture
   - [ ] Machines
   - [ ] Rocks similar to Stairway to Aether
-    - [ ] Mule
+    - [ ] Mud
     - [x] Marble
     - [x] Basalt
     - [x] Limestone
