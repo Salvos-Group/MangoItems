@@ -67,7 +67,7 @@ Only for Peridot (McKoxu) and Czerwonek
     - [x] Uranium (Radioactive)
       - [x] Ore
       - [x] Ingot
-      - [ ] Nugget
+      - [x] Nugget
     - [x] Yellorium (Radioactive)
       - [x] Ore
       - [x] Ingot
