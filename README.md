@@ -144,7 +144,6 @@ Only for Peridot (McKoxu) and Czerwonek
       - [ ] Shard
     - [ ] Apatite
       - [ ] Ore
-      - [x] Dust
-      - [ ] Tiny Dust
-    
+      - [ ] Gem
+      - [ ] Shard
     
