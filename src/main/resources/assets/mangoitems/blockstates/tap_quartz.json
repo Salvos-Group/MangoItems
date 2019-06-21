@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "mangoitems:tap_quartz", "y":  180},
-    "facing=east": { "model": "mangoitems:tap_quartz", "y": 270 },
-    "facing=south": { "model": "mangoitems:tap_quartz", "y": 0 },
-    "facing=west": { "model": "mangoitems:tap_quartz", "y": 90}
-  }
-}
