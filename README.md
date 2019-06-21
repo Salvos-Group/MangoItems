@@ -9,7 +9,7 @@ Only for Peridot (McKoxu) and Czerwonek
     - [x] Marble
     - [x] Basalt
     - [x] Limestone
-    - [ ] Chalk
+    - [x] Chalk
     - [ ] Chlorite
   - [x] Small stones of rocks and ores
   - [ ] Dust of ores
@@ -90,19 +90,61 @@ Only for Peridot (McKoxu) and Czerwonek
       - [x] Nugget
   - [ ] Ores (dusts)
     - [ ] Salt
+      - [ ] Ore
+      - [x] Dust
+      - [ ] Tiny Dust
     - [ ] Saltpeter
+      - [ ] Ore
+      - [x] Dust
+      - [ ] Tiny Dust
     - [ ] Sulfur
-    - [ ] Apatite
+      - [ ] Ore
+      - [x] Dust
+      - [ ] Tiny Dust
   - [ ] Ores (crystals)
     - [ ] Ruby
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Topaz
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Peridot
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Sapphire 
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Malachite
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Tanzanite
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Amethyst
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
     - [ ] Kyanite
+      - [ ] Ore
+      - [ ] Gem
+      - [ ] Shard
     - [ ] Aquamarine (sea ore, sand version)
+      - [ ] Ore
+      - [ ] Gem
+      - [ ] Shard
     - [ ] Amber (sea ore, sand version)
+      - [ ] Ore
+      - [x] Gem
+      - [ ] Shard
+    - [ ] Apatite
+      - [ ] Ore
+      - [x] Dust
+      - [ ] Tiny Dust
     
     
