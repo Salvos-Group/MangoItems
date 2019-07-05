@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "mangoitems:zinc_ingot"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "mangoitems:zinc_nugget",
+    "count": 9
+  }
+}

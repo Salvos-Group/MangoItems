@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "mangoitems:lead_ingot"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "mangoitems:lead_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+
+  "key":
+  {
+    "N":
+    {
+      "item": "mangoitems:yellorium_nugget"
+    }
+  },
+
+  "result":
+  {
+    "item": "mangoitems:yellorium_ingot",
+    "count": 1
+  }
+}

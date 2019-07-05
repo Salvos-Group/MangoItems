@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  M",
+    " S ",
+    "N  "
+  ],
+
+  "key":
+  {
+    "N":
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    },
+    "M":
+    {
+      "item": "mangoitems:mango"
+    }
+  },
+
+  "result":
+  {
+    "item": "mangoitems:mangowrench",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "mangoitems:blocks/polish_cream_cake_side",
+    "down": "mangoitems:blocks/polish_cream_cake_bottom",
+    "up": "mangoitems:blocks/polish_cream_cake_top",
+    "north": "mangoitems:blocks/polish_cream_cake_side",
+    "east": "mangoitems:blocks/polish_cream_cake_side",
+    "south": "mangoitems:blocks/polish_cream_cake_side",
+    "west": "mangoitems:blocks/polish_cream_cake_side"
+  }
+}

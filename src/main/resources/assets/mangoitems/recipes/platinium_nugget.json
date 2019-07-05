@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "mangoitems:platinium_ingot"
+    }
+
+  ],
+
+  "result":
+  {
+    "item": "mangoitems:platinium_nugget",
+    "count": 9
+  }
+}
