@@ -4,12 +4,17 @@ Only for Peridot (McKoxu) and Czerwonek
 # TODO
   - [ ] Furniture
   - [ ] Machines
-  - [ ] Rocks similar to Stairway to Aether
+  - [ ] Rocks & Dirt blocks
     - [x] Mud
     - [x] Marble
     - [x] Basalt
     - [x] Limestone
     - [x] Chalk
+    - [x] Meteorite
+    - [x] Schist
+      - [x] Blue
+      - [x] Green
+      - [x] Purple
     - [ ] Chlorite
   - [x] Small stones of rocks and ores
   - [ ] Dust of ores
