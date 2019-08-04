@@ -1,5 +1,6 @@
 package salvos.mangoitems.items.armor;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemArmor;
@@ -16,7 +17,7 @@ public class ArmorBase extends ItemArmor implements IHasModel {
 
         setUnlocalizedName(Reference.MOD_ID+"."+name);
         setRegistryName(name);
-        setCreativeTab(ModCreativeTabs.CREATIVE_ARMOR);
+        setCreativeTab(CreativeTabs.COMBAT);
 
         ModItems.items.add(this);
     }

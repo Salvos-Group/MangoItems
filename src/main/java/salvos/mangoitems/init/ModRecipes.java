@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ModRecipes {
 
     public static void init(){
-        GameRegistry.addSmelting(ModItems.COPPER_ORE_ROCK, new ItemStack(ModItems.COPPER_NUGGET), 0.7F);
+        /*GameRegistry.addSmelting(ModItems.COPPER_ORE_ROCK, new ItemStack(ModItems.COPPER_NUGGET), 0.7F);
         GameRegistry.addSmelting(ModItems.TIN_ORE_ROCK, new ItemStack(ModItems.TIN_NUGGET), 0.7F);
         GameRegistry.addSmelting(ModItems.ALUMINUM_ORE_ROCK, new ItemStack(ModItems.ALUMINUM_NUGGET), 0.7F);
         GameRegistry.addSmelting(ModItems.SILVER_ORE_ROCK, new ItemStack(ModItems.SILVER_NUGGET), 1.0F);
@@ -16,14 +16,9 @@ public class ModRecipes {
         GameRegistry.addSmelting(ModItems.CHROMIUM_ORE_ROCK, new ItemStack(ModItems.CHROMIUM_NUGGET), 1.0F);
         GameRegistry.addSmelting(ModItems.NICKIEL_ORE_ROCK, new ItemStack(ModItems.NICKIEL_NUGGET), 1.0F);
         GameRegistry.addSmelting(ModItems.LITHIUM_ORE_ROCK, new ItemStack(ModItems.LITHIUM_NUGGET), 1.0F);
-        GameRegistry.addSmelting(ModItems.PLATINIUM_ORE_ROCK, new ItemStack(ModItems.PLATINIUM_NUGGET), 1.0F);
-        GameRegistry.addSmelting(ModItems.IRIDIUM_ORE_ROCK, new ItemStack(ModItems.IRIDIUM_NUGGET), 1.0F);
         GameRegistry.addSmelting(ModItems.URANIUM_ORE_ROCK, new ItemStack(ModItems.URANIUM_NUGGET), 1.0F);
-        GameRegistry.addSmelting(ModItems.YELLORIUM_ORE_ROCK, new ItemStack(ModItems.YELLORIUM_NUGGET), 1.0F);
-        GameRegistry.addSmelting(ModItems.BLUTONIUM_ORE_ROCK, new ItemStack(ModItems.BLUTONIUM_NUGGET), 1.0F);
         GameRegistry.addSmelting(ModItems.MANGONIUM_ORE_ROCK, new ItemStack(ModItems.MANGONIUM_NUGGET), 1.0F);
-        GameRegistry.addSmelting(ModItems.COBALT_ORE_ROCK, new ItemStack(ModItems.COBALT_NUGGET), 1.0F);
-        GameRegistry.addSmelting(ModItems.TITANIUM_ORE_ROCK, new ItemStack(ModItems.TITANIUM_NUGGET), 1.0F);
+        GameRegistry.addSmelting(ModItems.TITANIUM_ORE_ROCK, new ItemStack(ModItems.TITANIUM_NUGGET), 1.0F);*/
     }
 
 }

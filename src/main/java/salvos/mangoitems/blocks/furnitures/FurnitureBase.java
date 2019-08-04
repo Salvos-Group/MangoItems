@@ -15,6 +15,19 @@ public class FurnitureBase extends BlockBase {
         ModBlocks.furnitures.add(this);
     }
 
+
+    public FurnitureBase(String name, Material material, float hardness) {
+        super(name, material, hardness);
+        setCreativeTab(ModCreativeTabs.CREATIVE_FURNITURE);
+        ModBlocks.furnitures.add(this);
+    }
+
+    public FurnitureBase(String name, Material material, float hardness, float resistance) {
+        super(name, material, hardness, resistance);
+        setCreativeTab(ModCreativeTabs.CREATIVE_FURNITURE);
+        ModBlocks.furnitures.add(this);
+    }
+
     public FurnitureBase(String name, Material material, float hardness, float resistance, String tool, int harvestLevel) {
         super(name, material, hardness, resistance, tool, harvestLevel);
         setCreativeTab(ModCreativeTabs.CREATIVE_FURNITURE);

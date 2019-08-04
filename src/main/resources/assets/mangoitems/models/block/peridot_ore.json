@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "mangoitems:blocks/peridot_ore"
-  }
-}

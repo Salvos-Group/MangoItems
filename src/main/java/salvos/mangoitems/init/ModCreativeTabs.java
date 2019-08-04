@@ -51,19 +51,6 @@ public class ModCreativeTabs {
         }
     };
 
-    public static final CreativeTabs CREATIVE_ARMOR = new CreativeTabs("mangoitems.creative_armor") {
-        @Override
-        public ItemStack getTabIconItem() {
-            return new ItemStack(ModItems.MANGONIUM_CHESTPLATE);
-        }
-
-        @Override
-        public void displayAllRelevantItems(NonNullList<ItemStack> items) {
-            super.displayAllRelevantItems(items);
-            items.sort(tabSorter);
-        }
-    };
-
     public static final CreativeTabs CREATIVE_BLOCKS = new CreativeTabs("mangoitems.creative_blocks") {
         @Override
         public ItemStack getTabIconItem() {

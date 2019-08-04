@@ -10,9 +10,9 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import salvos.mangoitems.init.ModCreativeTabs;
 import salvos.mangoitems.init.ModItems;
 import salvos.mangoitems.init.ModRecipes;
+import salvos.mangoitems.init.ModOres;
 import salvos.mangoitems.util.helper.ChiselHelper;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class CommonProxy {
@@ -21,7 +21,7 @@ public class CommonProxy {
 
     @Mod.EventHandler
     public void preinit(FMLPreInitializationEvent event) {
-
+        ModOres.init();
     }
 
     @Mod.EventHandler
