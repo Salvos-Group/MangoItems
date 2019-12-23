@@ -8,4 +8,6 @@ public class Reference {
 
     public static final String CLIENT_PROXY = "salvos.mangoitems.proxy.ClientProxy";
     public static final String COMMON_PROXY = "salvos.mangoitems.proxy.CommonProxy";
+
+    public static final int ENTITY_GOROF = 120;
 }
